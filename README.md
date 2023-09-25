@@ -1,11 +1,12 @@
 # Solving-Poisson-equation-using-Successive-Over-Relaxation
+Introduction:
 
-1. Introduction
 The aim of this project is to solve the 2D Poisson equation using the iterative Jacobi method Successive Over Relaxation (SOR), a popular iterative technique for solving partial differential equations. The Poisson equation is a fundamental partial differential equation (PDE) that arises in a wide range of scientific and engineering applications, including fluid dynamics, electrostatics, and heat conduction. Given the importance of the Poisson equation, it is essential to develop efficient numerical methods to solve it in various contexts.
 
 Our thesis is to implement the SOR method, which helps in solving the Poisson equation both in serial and hybrid models (MPI+OpenMP) and to prove that the hybrid model has lower run time compared to the serial. The structure of the report is organized as follows: Introduction, Methods, Results, Conclusions, and References.
 
-1.1. Background on Poisson Equation and Methods
+Background on Poisson Equation and Methods:
+
 The Poisson equation is a second-order partial differential equation (PDE) that arises in various scientific and engineering applications, such as heat conduction, fluid flow, and electrostatics. It is given by the following expression:
 
 Δu = σ(x)
