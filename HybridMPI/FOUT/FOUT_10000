@@ -1,0 +1,397 @@
+1
+1
+Grid size: 10000x10000
+Processes: 1
+Threads: 1
+Elapsed MPI Wall time: 19.021100
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+2
+Grid size: 10000x10000
+Processes: 1
+Threads: 2
+Elapsed MPI Wall time: 9.744089
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+4
+Grid size: 10000x10000
+Processes: 1
+Threads: 4
+Elapsed MPI Wall time: 4.847644
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+8
+Grid size: 10000x10000
+Processes: 1
+Threads: 8
+Elapsed MPI Wall time: 2.437643
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+16
+Grid size: 10000x10000
+Processes: 1
+Threads: 16
+Elapsed MPI Wall time: 1.270673
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+32
+Grid size: 10000x10000
+Processes: 1
+Threads: 32
+Elapsed MPI Wall time: 1.497898
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+64
+Grid size: 10000x10000
+Processes: 1
+Threads: 64
+Elapsed MPI Wall time: 0.891835
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+128
+Grid size: 10000x10000
+Processes: 1
+Threads: 128
+Elapsed MPI Wall time: 1.337177
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+2
+1
+Grid size: 10000x10000
+Processes: 2
+Threads: 1
+Elapsed MPI Wall time: 9.700080
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+2
+Grid size: 10000x10000
+Processes: 2
+Threads: 2
+Elapsed MPI Wall time: 4.812005
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+4
+Grid size: 10000x10000
+Processes: 2
+Threads: 4
+Elapsed MPI Wall time: 2.428872
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+8
+Grid size: 10000x10000
+Processes: 2
+Threads: 8
+Elapsed MPI Wall time: 1.248908
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+16
+Grid size: 10000x10000
+Processes: 2
+Threads: 16
+Elapsed MPI Wall time: 0.876171
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+32
+Grid size: 10000x10000
+Processes: 2
+Threads: 32
+Elapsed MPI Wall time: 0.943346
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+64
+Grid size: 10000x10000
+Processes: 2
+Threads: 64
+Elapsed MPI Wall time: 3.599231
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+128
+Grid size: 10000x10000
+Processes: 2
+Threads: 128
+Elapsed MPI Wall time: 1.272252
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+4
+1
+Grid size: 10000x10000
+Processes: 4
+Threads: 1
+Elapsed MPI Wall time: 4.878734
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+2
+Grid size: 10000x10000
+Processes: 4
+Threads: 2
+Elapsed MPI Wall time: 2.474994
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+4
+Grid size: 10000x10000
+Processes: 4
+Threads: 4
+Elapsed MPI Wall time: 1.253306
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+8
+Grid size: 10000x10000
+Processes: 4
+Threads: 8
+Elapsed MPI Wall time: 1.090887
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+16
+Grid size: 10000x10000
+Processes: 4
+Threads: 16
+Elapsed MPI Wall time: 0.808051
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+32
+Grid size: 10000x10000
+Processes: 4
+Threads: 32
+Elapsed MPI Wall time: 1.360099
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+64
+Grid size: 10000x10000
+Processes: 4
+Threads: 64
+Elapsed MPI Wall time: 5.001788
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+128
+Grid size: 10000x10000
+Processes: 4
+Threads: 128
+Elapsed MPI Wall time: 1.101712
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+8
+1
+Grid size: 10000x10000
+Processes: 8
+Threads: 1
+Elapsed MPI Wall time: 2.575878
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+2
+Grid size: 10000x10000
+Processes: 8
+Threads: 2
+Elapsed MPI Wall time: 1.317641
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+4
+Grid size: 10000x10000
+Processes: 8
+Threads: 4
+Elapsed MPI Wall time: 0.864346
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+8
+Grid size: 10000x10000
+Processes: 8
+Threads: 8
+Elapsed MPI Wall time: 0.826275
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+16
+Grid size: 10000x10000
+Processes: 8
+Threads: 16
+Elapsed MPI Wall time: 1.129642
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+32
+Grid size: 10000x10000
+Processes: 8
+Threads: 32
+Elapsed MPI Wall time: 4.597404
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+64
+Grid size: 10000x10000
+Processes: 8
+Threads: 64
+Elapsed MPI Wall time: 11.010480
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+128
+Grid size: 10000x10000
+Processes: 8
+Threads: 128
+Elapsed MPI Wall time: 0.888652
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+16
+1
+Grid size: 10000x10000
+Processes: 16
+Threads: 1
+Elapsed MPI Wall time: 1.228326
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+2
+Grid size: 10000x10000
+Processes: 16
+Threads: 2
+Elapsed MPI Wall time: 0.953790
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+4
+Grid size: 10000x10000
+Processes: 16
+Threads: 4
+Elapsed MPI Wall time: 0.564069
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+8
+Grid size: 10000x10000
+Processes: 16
+Threads: 8
+Elapsed MPI Wall time: 0.961488
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+16
+Grid size: 10000x10000
+Processes: 16
+Threads: 16
+Elapsed MPI Wall time: 4.275584
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+32
+Grid size: 10000x10000
+Processes: 16
+Threads: 32
+Elapsed MPI Wall time: 10.501190
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+64
+Grid size: 10000x10000
+Processes: 16
+Threads: 64
+Elapsed MPI Wall time: 23.099953
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+128
+Grid size: 10000x10000
+Processes: 16
+Threads: 128
+Elapsed MPI Wall time: 1.111525
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+32
+1
+Grid size: 10000x10000
+Processes: 32
+Threads: 1
+Elapsed MPI Wall time: 0.686182
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+2
+Grid size: 10000x10000
+Processes: 32
+Threads: 2
+Elapsed MPI Wall time: 0.605025
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+4
+Grid size: 10000x10000
+Processes: 32
+Threads: 4
+Elapsed MPI Wall time: 0.703504
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+8
+Grid size: 10000x10000
+Processes: 32
+Threads: 8
+Elapsed MPI Wall time: 3.809008
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+16
+Grid size: 10000x10000
+Processes: 32
+Threads: 16
+Elapsed MPI Wall time: 9.772752
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+32
+Grid size: 10000x10000
+Processes: 32
+Threads: 32
+Elapsed MPI Wall time: 21.317845
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+64
+Grid size: 10000x10000
+Processes: 32
+Threads: 64
+Elapsed MPI Wall time: 48.735648
+Total iterations: 50
+Residual 3.20592e-12
+The error of the iterative solution is 5.33278e-05
+128
+Grid size: 10000x10000
+Processes: 32
+Threads: 128
+-------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code.. Per user-direction, the job has been aborted.
+-------------------------------------------------------
+--------------------------------------------------------------------------
+mpiexec detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[58239,1],10]
+  Exit code:    1
+--------------------------------------------------------------------------
